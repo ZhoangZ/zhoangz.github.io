@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>https://zhoangz.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://zhoangz.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>http://example.org/</link>
+      <link>https://zhoangz.github.io/</link>
       <pubDate>Thu, 09 Jun 2022 22:41:26 +0700</pubDate>
       
-      <guid>http://example.org/</guid>
+      <guid>https://zhoangz.github.io/</guid>
       <description>Index</description>
     </item>
     
