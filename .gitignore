@@ -1,0 +1,5 @@
+config_local_github.bat
+*/target
+*/bin
+*/.settings
+*/.classpath
